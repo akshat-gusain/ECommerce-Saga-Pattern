@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "EquDfiKxvBXS8nziYueUe2sS5eneqsS/EE5CnXKusmI=",
+  "Source": "SagaOrchestrator",
+  "BasePath": "_content/SagaOrchestrator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\akshat\\source\\repos\\OrderService\\OrderService\\OrderService.csproj",
+      "Version": 2,
+      "Source": "OrderService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
